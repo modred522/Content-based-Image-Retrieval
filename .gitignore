@@ -22,3 +22,4 @@ data/*.csv
 # Don't ignore .gitignore itself
 !.gitignore
 third_party/imgui/
+features_*.csv
