@@ -28,3 +28,4 @@ image-*.png
 
 # Report - only keep PDF version, exclude markdown
 report.md
+requirement.md
