@@ -1,0 +1,9 @@
+{
+	"$schema": "https://json.schemastore.org/claude-code-settings.json",
+	"env": {
+		"ANTHROPIC_API_KEY": "sk-YgLdaNXaafn2DBes0qIXzCdSLgWN9pM4OZJw4jFayfmAmiwX",
+		"ANTHROPIC_BASE_URL": "https://api.moonshot.cn/anthropic",
+		"ANTHROPIC_MODEL": "kimi-k2.5",
+		"ANTHROPIC_SMALL_FAST_MODEL": "kimi-k2.5"
+	}
+}

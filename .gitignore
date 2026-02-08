@@ -1,0 +1,23 @@
+# Binaries (but keep the directory)
+# bin/*
+# !bin/.gitkeep
+*.o
+*.exe
+
+# Data files
+data/olympus/*.jpg
+data/olympus/*.png
+data/*.csv
+
+# Build artifacts
+*.dSYM/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Don't ignore .gitignore itself
+!.gitignore
