@@ -4,10 +4,8 @@
 *.o
 *.exe
 
-# Data files
-data/olympus/*.jpg
-data/olympus/*.png
-data/*.csv
+# Data files - exclude entire data directory
+data/
 
 # Build artifacts
 *.dSYM/
@@ -23,3 +21,10 @@ data/*.csv
 !.gitignore
 third_party/imgui/
 features_*.csv
+
+# Screenshots - exclude all image files in project root
+image.png
+image-*.png
+
+# Report - only keep PDF version, exclude markdown
+report.md
